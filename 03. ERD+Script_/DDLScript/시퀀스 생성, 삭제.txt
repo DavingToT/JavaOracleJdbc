@@ -1,0 +1,51 @@
+[시퀀스 생성]
+CREATE SEQUENCE course_seq; -- 과정
+CREATE SEQUENCE subject_seq; -- 과목
+CREATE SEQUENCE textbook_seq; -- 교재
+CREATE SEQUENCE classroom_seq; -- 강의실
+CREATE SEQUENCE teacher_seq;
+CREATE SEQUENCE lecturablesubject_seq;
+CREATE SEQUENCE coursesubject_seq;
+CREATE SEQUENCE opencourse_seq;
+CREATE SEQUENCE opensubject_seq;
+CREATE SEQUENCE allot_seq;
+CREATE SEQUENCE writtentest_seq;
+CREATE SEQUENCE performancetest_seq;
+CREATE SEQUENCE score_seq;
+CREATE SEQUENCE teacherevaluation_seq;
+CREATE SEQUENCE qna_seq;
+CREATE SEQUENCE opencoursestudent_seq;
+CREATE SEQUENCE geuntae_seq;
+CREATE SEQUENCE noticeapplication_seq;
+CREATE SEQUENCE attendance_seq;
+CREATE SEQUENCE student_seq;
+CREATE SEQUENCE board_seq;
+CREATE SEQUENCE company_seq;
+CREATE SEQUENCE notice_seq;
+CREATE SEQUENCE status_seq;
+
+[시퀀스 삭제]
+DROP SEQUENCE course_seq;
+DROP SEQUENCE subject_seq;
+DROP SEQUENCE textbook_seq;
+DROP SEQUENCE classroom_seq;
+DROP SEQUENCE teacher_seq;
+DROP SEQUENCE lecturablesubject_seq;
+DROP SEQUENCE coursesubject_seq;
+DROP SEQUENCE opencourse_seq;
+DROP SEQUENCE opensubject_seq;
+DROP SEQUENCE allot_seq;
+DROP SEQUENCE writtentest_seq;
+DROP SEQUENCE performancetest_seq;
+DROP SEQUENCE score_seq;
+DROP SEQUENCE teacherevaluation_seq;
+DROP SEQUENCE qna_seq;
+DROP SEQUENCE opencoursestudent_seq;
+DROP SEQUENCE geuntae_seq;
+DROP SEQUENCE noticeapplication_seq;
+DROP SEQUENCE attendance_seq;
+DROP SEQUENCE student_seq;
+DROP SEQUENCE board_seq;
+DROP SEQUENCE company_seq;
+DROP SEQUENCE notice_seq;
+DROP SEQUENCE status_seq;
